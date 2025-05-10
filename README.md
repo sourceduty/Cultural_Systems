@@ -1,8 +1,6 @@
 ![Age-Based Cultures and Subcultures](https://github.com/user-attachments/assets/9c05f22d-57cd-434d-9d16-4d438ab132c5)
 
 #
-The dynamic structure of social systems for intersocial connectivity that drive socialization and identity across the lifespan.
-#
 
 There is a dynamic structure of social systems for intersocial connectivity that drive socialization and identity across the lifespan. At the base of this system, kids’ culture is shaped primarily through vertical transmission from parents, caregivers, and educational institutions. These vertical influences instill foundational norms, language, and behavior patterns, with peer interactions beginning to create horizontal social bonds, especially in structured environments like schools. Kids’ subcultures, such as play culture or media-based fandoms, are less about resistance or distinction and more about shared engagement within the boundaries permitted by adult systems. Intersocially, kids have limited influence on other groups, though they absorb significantly from adult-designed environments and media, creating a largely unidirectional influence structure.
 
