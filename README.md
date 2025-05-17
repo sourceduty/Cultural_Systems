@@ -64,7 +64,7 @@ In adult culture, mainstream formations tend to coalesce around widely broadcast
 
 #
 
-![Homonyms](https://github.com/user-attachments/assets/c2dc9a9b-a760-4076-a286-bb98bf1467ac)
+![Homonyms](https://github.com/user-attachments/assets/1bc16152-6c06-487a-b930-2758a89c4802)
 
 Language suffixes and word origins serve as windows into the histories and structures of languages, revealing patterns of meaning, grammatical roles, and cultural influence. In English, a Germanic language heavily influenced by Latin and French, suffixes often signal part of speech or modify meaning. For example, “-ness” forms nouns (as in kindness), while “-ly” converts adjectives to adverbs (as in quickly). English vocabulary reflects its complex history—Old English roots (e.g., house, bread), Norman French additions post-1066 (e.g., court, judge), and later Latin and Greek borrowings (e.g., philosophy, biology). These diverse sources give English a vast lexicon and flexibility in word formation. Similarly, French, a Romance language descended from Latin, retains Latin suffixes like “-ment” (forming adverbs, e.g., rapidement) and “-tion” (forming nouns, e.g., information). Its word origins are largely Latin, shaped by Celtic and Germanic influences, with standardized forms evolving through centuries of royal and academic regulation.
 
