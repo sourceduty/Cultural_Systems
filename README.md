@@ -9,6 +9,9 @@ Teenager culture represents a transitional and highly dynamic zone where interso
 Adult culture sits at the top of this topology not in terms of value but in institutional power and systemic influence. Adults manage and reproduce the structures within which kids and teens develop, from legal systems to educational policy to cultural industries. Adult subcultures are often differentiated by life stages and social roles—parenthood, work identity, ideological affiliation—and they engage with teen and youth culture both through formal control (e.g., parenting, education) and informal adoption (e.g., following youth trends in fashion or tech). Intersocial connectivity here is multidirectional: adults shape youth environments, but they also consume and adapt elements from teen subcultures (such as slang or digital behavior) and reflect back cultural expectations that shape youth aspirations. Adults often recontextualize earlier subcultural ties from their teen years, producing continuity or nostalgia-based engagement with subcultural elements now institutionalized. Overall, the topological structure highlights how culture is not only age-stratified but deeply interactive, with each level engaged in a recursive loop of influence, resistance, and reinvention.
 
 #
+
+![Poutine](https://github.com/user-attachments/assets/f5bf3b66-8658-45b1-85ea-0df6304f172b)
+
 ```
 Culture Hierarchy Diagram: Age-Based Cultures and Subcultures
 
@@ -56,6 +59,7 @@ Note:
 - Arrows between levels are bidirectional, indicating reciprocal influence.
 - Each age-based culture supports a unique ecology of subcultures that can overlap across life stages (e.g., gaming spans teens and adults).
 ```
+
 #
 
 **Mainstream culture** functions as a dominant aggregation of practices, values, and symbols that cut across age-based subcultures, offering a seemingly cohesive narrative about what is “normal,” desirable, and widely accepted in society. It is not a neutral center but a dynamic product of power relations, media representation, and commercial appeal. Among youth, particularly teenagers, mainstream culture is often defined through the mass circulation of music, fashion, and social media aesthetics. Pop music, athletic brands, and viral social media trends create a shared lexicon that allows disparate youth communities to feel connected, even if only superficially. Platforms like TikTok and Instagram mediate these trends rapidly, turning fringe behaviors or aesthetics into widespread norms within days. These technologies amplify certain youth subcultures—especially those that are visually appealing or emotionally resonant—transforming them into mainstream elements that even younger kids and adults may imitate or consume.
