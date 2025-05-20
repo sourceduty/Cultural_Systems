@@ -80,3 +80,5 @@ Spanish, also a Romance language, shares many suffixes with French due to their 
 [Theoretical Social Psychology](https://chatgpt.com/g/g-6807d47ef36481918e2223b497449d4e-theoretical-social-psychology)
 <br>
 [Social Dynamics](https://chatgpt.com/g/g-67f0c4af32548191a7443ddbfd3fef61-social-dynamics)
+<br>
+[Theoretical Culture](https://chatgpt.com/g/g-682bef8108008191babde8540c2b2c83-theoretical-culture)
