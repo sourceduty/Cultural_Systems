@@ -1,4 +1,4 @@
-![Age-Based Cultures and Subcultures](https://github.com/user-attachments/assets/9c05f22d-57cd-434d-9d16-4d438ab132c5)
+![Age-Based Cultures and Subcultures](https://github.com/user-attachments/assets/831e205c-18a9-4cac-ace3-92795cb82b94)
 
 #
 
