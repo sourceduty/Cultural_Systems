@@ -97,6 +97,10 @@ This graph illustrates the dramatic escalation of global human population throug
 Human population throughput, in this context, refers to the cumulative flow of people through time — essentially the total number of individual human lives that have ever existed. It measures not just how many people are alive at any one point (stock), but the sum total of all individuals who have lived and, by extension, exerted biological, cultural, and ecological influence. This metric captures the dynamic magnitude of human activity and resource use across generations. As of today, estimates suggest that approximately 117 billion humans have ever lived, with over 8 billion currently alive — meaning nearly 7% of all humans who have ever existed are alive now. Looking forward, if population projections hold and the global count peaks around 10.4 billion by 2100, and assuming stable or declining birth rates thereafter, an estimated 40–50 billion additional people could be born over the next few centuries. This would bring the total historical human throughput to somewhere between 150 and 170 billion by the year 2500, depending on technological, environmental, and sociopolitical developments. These numbers highlight how recent centuries, and likely the next few, represent an outsized share of humanity’s total impact on Earth’s systems, especially considering that the majority of resource consumption, environmental alteration, and technological change is also concentrated within this compressed timeframe.
 
 #
+
+![Don't Care Meme](https://github.com/user-attachments/assets/9fcbaef3-8a4c-4719-a977-dd7cb482c7a5)
+
+#
 [Theoretical Social Psychology](https://chatgpt.com/g/g-6807d47ef36481918e2223b497449d4e-theoretical-social-psychology)
 <br>
 [Social Dynamics](https://chatgpt.com/g/g-67f0c4af32548191a7443ddbfd3fef61-social-dynamics)
