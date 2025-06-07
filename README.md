@@ -1,6 +1,4 @@
-![Salutes](https://github.com/user-attachments/assets/0debffad-a5eb-43df-9369-64a3f0cd3f11)
-
-#
+![Cultures](https://github.com/user-attachments/assets/993ab8c8-738f-4d73-8392-cc18d5bc8f1d)
 
 There is a dynamic structure of social systems for intersocial connectivity that drive socialization and identity across the lifespan. At the base of this system, kids’ culture is shaped primarily through vertical transmission from parents, caregivers, and educational institutions. These vertical influences instill foundational norms, language, and behavior patterns, with peer interactions beginning to create horizontal social bonds, especially in structured environments like schools. Kids’ subcultures, such as play culture or media-based fandoms, are less about resistance or distinction and more about shared engagement within the boundaries permitted by adult systems. Intersocially, kids have limited influence on other groups, though they absorb significantly from adult-designed environments and media, creating a largely unidirectional influence structure.
 
