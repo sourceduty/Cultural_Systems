@@ -1,4 +1,4 @@
-![Cultures](https://github.com/user-attachments/assets/993ab8c8-738f-4d73-8392-cc18d5bc8f1d)
+![Offset Generation-Fashion Rythm](https://github.com/user-attachments/assets/9bc49ecf-581e-42c0-8c1e-9b5345cd2f74)
 
 There is a dynamic structure of social systems for intersocial connectivity that drive socialization and identity across the lifespan. At the base of this system, kids’ culture is shaped primarily through vertical transmission from parents, caregivers, and educational institutions. These vertical influences instill foundational norms, language, and behavior patterns, with peer interactions beginning to create horizontal social bonds, especially in structured environments like schools. Kids’ subcultures, such as play culture or media-based fandoms, are less about resistance or distinction and more about shared engagement within the boundaries permitted by adult systems. Intersocially, kids have limited influence on other groups, though they absorb significantly from adult-designed environments and media, creating a largely unidirectional influence structure.
 
@@ -97,6 +97,7 @@ Human population throughput, in this context, refers to the cumulative flow of p
 #
 
 ![Don't Care Meme](https://github.com/user-attachments/assets/9fcbaef3-8a4c-4719-a977-dd7cb482c7a5)
+![Cultures](https://github.com/user-attachments/assets/993ab8c8-738f-4d73-8392-cc18d5bc8f1d)
 
 #
 [Theoretical Social Psychology](https://chatgpt.com/g/g-6807d47ef36481918e2223b497449d4e-theoretical-social-psychology)
