@@ -1,4 +1,4 @@
-![Offset Generation-Fashion Rythm](https://github.com/user-attachments/assets/9bc49ecf-581e-42c0-8c1e-9b5345cd2f74)
+![Offset Generation-Fashion Rythm](https://github.com/user-attachments/assets/76ffb138-60e6-4eb4-a1ea-3a0e62477dfd)
 
 There is a dynamic structure of social systems for intersocial connectivity that drive socialization and identity across the lifespan. At the base of this system, kids’ culture is shaped primarily through vertical transmission from parents, caregivers, and educational institutions. These vertical influences instill foundational norms, language, and behavior patterns, with peer interactions beginning to create horizontal social bonds, especially in structured environments like schools. Kids’ subcultures, such as play culture or media-based fandoms, are less about resistance or distinction and more about shared engagement within the boundaries permitted by adult systems. Intersocially, kids have limited influence on other groups, though they absorb significantly from adult-designed environments and media, creating a largely unidirectional influence structure.
 
